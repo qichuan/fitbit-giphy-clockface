@@ -1,4 +1,8 @@
+A Fitbit watchface inspired by this [tweet](https://twitter.com/de/status/1206704383993565184)
 
+![image](./screenshots/demo.gif)
+
+Image asset obtained from https://media.giphy.com/media/134DVXcD94sOWI/giphy.gif
 
 # Getting started
 
