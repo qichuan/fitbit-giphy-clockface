@@ -1,0 +1,27 @@
+{
+  "fitbit": {
+    "appUUID": "b32e4796-adb5-48d5-9098-d6a962f3fa02",
+    "appType": "clockface",
+    "appDisplayName": "giphy watchface",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Giphy_watchface"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.0.0",
+    "@fitbit/sdk-cli": "^1.7.0"
+  }
+}

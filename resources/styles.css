@@ -1,0 +1,13 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 70%;
+  y: 80%+40;
+  fill: white;
+}
